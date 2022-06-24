@@ -1,5 +1,5 @@
 {
-  "name": "ZeusMusic",
+  "name": "ՏհɑƘíժɑ | Music bot",
   "description": "Repo for telegram bot, can play songs on vcg. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/ZeusNetworks/ZeusMusic",
@@ -31,17 +31,17 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "ZeusSupport"
+      "value": "SHAKIDAASUPORT"
     },
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "ZeusBotsNetwork"
+      "value": "SHAKIDAAUPDATES"
     }, 
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
       "required": false,
-      "value": "ZeusMusic"
+      "value": "SHAKIDAAMUSIC"
     },
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @",
@@ -80,7 +80,7 @@
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes)",
       "required": true,
-      "value": "15"
+      "value": "400"
     },
     "DATABASE_URL": {
       "description": "fill with the mongodb url get from mongodb.com",
